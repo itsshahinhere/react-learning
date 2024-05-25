@@ -1,4 +1,4 @@
-## This repo was created during my initial days of learning React js from **Namaste React** course by Akshay saini.
+## This repo was created during my initial days of learning React js from [**Namaste React** course by Akshay saini](https://namastedev.com/learn/namaste-react).
 
 Here i have created a simple Swiggy like web app with live swiggy api.
 
