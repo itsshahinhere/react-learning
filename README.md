@@ -9,7 +9,8 @@ Here i have created a simple Swiggy like web app with live swiggy api.
  - NPM packages and dependencies
  - Bundlers 
  - React components 
- - React hooks such as useState() and useEffect()
+ - React hooks such as useState(), useEffect(), useRouteError()
+ - Learnt react-router-dom for Routing
 
 To use this repo:
 
